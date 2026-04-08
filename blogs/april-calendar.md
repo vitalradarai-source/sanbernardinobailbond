@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-san-bernardino | what happens after an arrest in San Bernardino | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-san-bernardino | what happens after an arrest in San Bernardino | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-san-bernardino | how do bail bonds work in San Bernardino | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-san-bernardino | how much is bail in San Bernardino County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-san-bernardino | how to get someone out of jail in San Bernardino | Release Process | ⬜ |
