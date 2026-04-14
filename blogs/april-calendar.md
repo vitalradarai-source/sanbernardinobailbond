@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-san-bernardino | what happens after an arrest in San Bernardino | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-san-bernardino | how do bail bonds work in San Bernardino | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-san-bernardino | how much is bail in San Bernardino County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-san-bernardino | how much is bail in San Bernardino County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-san-bernardino | how to get someone out of jail in San Bernardino | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-san-bernardino | domestic violence bail bonds San Bernardino | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-san-bernardino | DUI bail bonds San Bernardino | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-san-bernardino | felony bail bonds San Bernardino | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-san-bernardino-bail-bonds | san bernardino bail bonds | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-san-bernardino | drug possession bail San Bernardino | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-san-bernardino | can you bail someone out at night in San Bernardino | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-san-bernardino | how long does it take to bail someone out of Central Detention Center | Timeline | ⬜ |
