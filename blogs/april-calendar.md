@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-san-bernardino | how much does a bail bondsman charge in San Bernardino | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-san-bernardino | bail bond payment plan San Bernardino | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-san-bernardino | jail booking process at Central Detention Center | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-san-bernardino | how to find someone in jail San Bernardino | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-san-bernardino | what to expect at arraignment SB Justice Center | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-san-bernardino | bail hearing process in San Bernardino County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-san-bernardino | warrant bail bonds San Bernardino | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-san-bernardino | what happens if you miss court date San Bernardino | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-san-bernardino | assault and battery bail bonds San Bernardino | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-san-bernardino | theft and burglary bail bonds San Bernardino | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-san-bernardino | how to choose a bail bondsman in San Bernardino | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-san-bernardino | what does a bail bond cosigner do San Bernardino | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-san-bernardino | bail conditions and restrictions San Bernardino County | Conditions | ⬜ |
+| 2026-04-21 | Tue | what-happens-miss-court-san-bernardino | what happens if you miss court date San Bernardino | FTA | ⬜ |
+| 2026-04-22 | Wed | assault-bail-bonds-san-bernardino | assault and battery bail bonds San Bernardino | Assault | ⬜ |
+| 2026-04-23 | Thu | theft-bail-bonds-san-bernardino | theft and burglary bail bonds San Bernardino | Theft | ⬜ |
+| 2026-04-24 | Fri | choosing-bail-bondsman-san-bernardino | how to choose a bail bondsman in San Bernardino | How to Choose | ⬜ |
+| 2026-04-25 | Sat | bail-bond-cosigner-san-bernardino | what does a bail bond cosigner do San Bernardino | Cosigner | ⬜ |
+| 2026-04-26 | Sun | bail-bond-conditions-san-bernardino | bail conditions and restrictions in San Bernardino | Conditions | ⬜ |
+| 2026-04-27 | Mon | first-offense-bail-san-bernardino | first offense bail bonds San Bernardino | First Offense | ⬜ |
+| 2026-04-28 | Tue | felony-vs-misdemeanor-bail-san-bernardino | felony vs misdemeanor bail San Bernardino | Charge Types | ⬜ |
+| 2026-04-29 | Wed | weapon-charges-bail-san-bernardino | weapon charges bail bonds San Bernardino | Weapon Charges | ⬜ |
+| 2026-04-30 | Thu | immigration-hold-bail-san-bernardino | ICE hold bail questions San Bernardino | Immigration | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
