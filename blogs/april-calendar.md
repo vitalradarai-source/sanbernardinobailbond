@@ -42,7 +42,7 @@
 | 2026-04-27 | Mon | first-offense-bail-san-bernardino | first offense bail bonds San Bernardino | First Offense | ⬜ |
 | 2026-04-28 | Tue | felony-vs-misdemeanor-bail-san-bernardino | felony vs misdemeanor bail San Bernardino | Charge Types | ⬜ |
 | 2026-04-29 | Wed | weapon-charges-bail-san-bernardino | weapon charges bail bonds San Bernardino | Weapon Charges | ⬜ |
-| 2026-04-30 | Thu | immigration-hold-bail-san-bernardino | ICE hold bail questions San Bernardino | Immigration | ⬜ |
+| 2026-04-30 | Thu | immigration-hold-bail-san-bernardino | ICE hold bail questions San Bernardino | Immigration | ✅ published |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
